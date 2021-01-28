@@ -1,4 +1,4 @@
-# Price_Generator
+# Secondhand Clothing Price Generator
 
 ### A model was built to predict the price of secondhand clothing.
 * Using a tool called [Web Scraper](https://webscraper.io/) data was scraped from a site called Vinted.com
